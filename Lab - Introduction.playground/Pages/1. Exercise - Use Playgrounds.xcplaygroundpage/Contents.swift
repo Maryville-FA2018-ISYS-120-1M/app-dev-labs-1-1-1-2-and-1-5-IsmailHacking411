@@ -10,12 +10,18 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("One of my favorite songs is: Dream On, by Aerosmith")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+print("Sing with me")
+print("Sing for the years")
+print("Sing for the laughters")
+print("Sing for my tears")
+print("Sing with me, if it's just for today")
+print("Maybe tomorrow, the Good Lord'll take you away")
+print("Dream On, Dream On...")
 
 
 /*:
